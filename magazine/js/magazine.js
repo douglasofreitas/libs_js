@@ -281,12 +281,7 @@ function resizeViewport() {
 		boundH = height - magazineOffset.top - $('.magazine').height(),
 		marginTop = (boundH - $('.thumbnails > div').height()) / 2;
 
-	if (marginTop<0) {
-		$('.thumbnails').css({height:1});
-	} else {
-		$('.thumbnails').css({height: boundH});
-		//$('.thumbnails > div').css({marginTop: marginTop});
-	}
+	$('.thumbnails').css({height:'36px'});
 
 	if (magazineOffset.top<$('.made').height())
 		$('.made').hide();
