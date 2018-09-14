@@ -1,0 +1,72 @@
+[
+	{
+		"x":10,	
+		"y":110,
+		"width":100,
+		"height":450,
+		"class":"add-product",
+		"data":
+			{
+				"name": "curtidos de humor",
+				"sku": "87736",
+				"value": "89,90",
+				"image_url": "http://rede.natura.net/image/sku/380x380/87736_1.jpg"
+			}
+	},
+	{
+		"x":120,	
+		"y":110,
+		"width":80,
+		"height":120,
+		"class":"add-product",
+		"data":
+			{
+				"name": "humor próprio feminino",
+				"sku": "86727",
+				"value": "99,90",
+				"image_url": "http://rede.natura.net/image/sku/380x380/86727_1.jpg"
+			}
+	},
+	{
+		"x":120,	
+		"y":240,
+		"width":80,
+		"height":120,
+		"class":"add-product",
+		"data":
+			{
+				"name": "humor da minha vida feminino",
+				"sku": "86721",
+				"value": "99,90",
+				"image_url": "http://rede.natura.net/image/sku/380x380/86721_1.jpg"
+			}
+	},
+	{
+		"x":120,	
+		"y":370,
+		"width":80,
+		"height":90,
+		"class":"add-product",
+		"data":
+			{
+				"name": "paz e amor masculino",
+				"sku": "86728",
+				"value": "99,90",
+				"image_url": "http://rede.natura.net/image/sku/380x380/86728_1.jpg"
+			}
+	},
+	{
+		"x":120,	
+		"y":470,
+		"width":80,
+		"height":90,
+		"class":"add-product",
+		"data":
+			{
+				"name": "humor a dois masculino",
+				"sku": "86725",
+				"value": "99,90",
+				"image_url": "http://rede.natura.net/image/sku/380x380/86725_1.jpg"
+			}
+	}
+]

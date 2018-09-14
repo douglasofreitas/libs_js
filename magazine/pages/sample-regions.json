@@ -1,0 +1,22 @@
+[{
+	"x":22,
+	"y":568,
+	"width":130,
+	"height":12,
+	"class":"link",
+	"data":
+		{
+			"url": "http://latimes.com/shopping/vegas"
+		}
+},{
+	"x":256,
+	"y":161,
+	"width":128,
+	"height":15,
+	"class":"to-page",
+	"data":
+		{
+			"page": 8
+		}
+}
+]
